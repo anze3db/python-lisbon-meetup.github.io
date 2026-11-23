@@ -161,7 +161,7 @@ The old group's members get a short, friendly email in plain text. Use English o
 ```
 Olá everyone! 👋
 
-The Python Lisbon Meetup is back at Gapstars this month, and we'd love to see you there!
+The Python Lisbon Meetup is back at Gapstars, and we'd love to see you there!
 
 📅 December 3, 18:30
 📍 Gapstars, Edifício Atrium Saldanha (11th floor), Lisbon
@@ -184,13 +184,13 @@ How #14 differed (a joint event with two talks, food, and filming):
 - "There will also be food, drinks, and time to hang out and chat after the talks."
 - The English image-consent paragraph from section 8 (with the 📸 but without the bold), between the talks and the RSVP link
 
-Rules: date as "Month D, HH:MM" with no weekday. Talks as "Speaker — Title" with an em dash, and the title in the same case as on the Meetup page. Mention food or drinks only if the host has confirmed them, and lightning talks only if the event has them.
+Rules: date as "Month D, HH:MM" with no weekday. Never use relative time ("this month", "next week", "tomorrow"); the email often goes out in a different month from the event, so the date line says when. Talks as "Speaker — Title" with an em dash, and the title in the same case as on the Meetup page. Mention food or drinks only if the host has confirmed them, and lightning talks only if the event has them.
 
 ## 8. Optional paragraphs
 
 **Joint event** (from #14):
-> This month we're joining forces with [PyData Lisbon](https://www.meetup.com/pydata-lisbon/) at the **VW Innovation & Engineering Hub**, who are kindly hosting us, with food and drinks! 🍕
-> PT: Este mês juntamo-nos ao [PyData Lisbon](https://www.meetup.com/pydata-lisbon/) no **VW Innovation & Engineering Hub**, que nos recebe com comida e bebidas! 🍕
+> This time we're joining forces with [PyData Lisbon](https://www.meetup.com/pydata-lisbon/) at the **VW Innovation & Engineering Hub**, who are kindly hosting us, with food and drinks! 🍕
+> PT: Desta vez juntamo-nos ao [PyData Lisbon](https://www.meetup.com/pydata-lisbon/) no **VW Innovation & Engineering Hub**, que nos recebe com comida e bebidas! 🍕
 
 In a joint event, the welcome item becomes "Welcome from <host> and a short intro of Python Lisbon and <partner>".
 
